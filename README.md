@@ -58,7 +58,7 @@
 │   Name     →  Sanjukta Chakraborty          │
 │   Handle   →  @sanjuktaverse                │
 │   Degree   →  B.Tech ECE · FIEM · 2022–26   │
-│   CGPA     →  7.54 / 10                     │
+│   CGPA     →  7.66 / 10                     │
 │   Location →  Kolkata, India 🇮🇳             │
 │   Domains  →  ML · NLP · Embedded · IoT     │
 │   Status   →  Open to Opportunities ✅       │
