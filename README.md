@@ -121,7 +121,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjukta%20Chakraborty-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjukta%20Chakraborty-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjukta-chakraborty-005808242/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-sanjuktaverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjuktaverse)
 &nbsp;&nbsp;
@@ -645,7 +645,7 @@ FIEM in association with Patent Information Centre, West Bengal State Council of
 ║                                                                              ║
 ║   🎓  B.Tech — Electronics & Communication Engineering                      ║
 ║       Future Institute of Engineering & Management, Kolkata                 ║
-║       2022 – 2026  ·  CGPA: 7.54 / 10                                      ║
+║       2022 – 2026  ·  CGPA: 7.66 / 10                                      ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
