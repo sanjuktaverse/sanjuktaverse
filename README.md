@@ -831,7 +831,7 @@ FIEM in association with Patent Information Centre, West Bengal State Council of
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjukta-chakraborty-005808242/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjuktaverse)
 &nbsp;&nbsp;
